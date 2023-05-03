@@ -12,10 +12,13 @@ In this section, describe the analysis you completed for the machine learning mo
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
 
 * Machine Learning Model 1:
-/Users/danielcarrasco/Desktop/Screenshot 2023-05-02 at 10.58.53 PM.png
+
+![Screenshot 2023-05-02 at 10 58 53 PM](https://user-images.githubusercontent.com/117786548/235842641-63234501-0340-460a-b47a-84ee66fe6080.png)
   * Description of Model 1 Accuracy, Precision, and Recall scores.
+  
 * Machine Learning Model 2:
-/Users/danielcarrasco/Desktop/Screenshot 2023-05-02 at 10.59.20 PM.png
+
+![Screenshot 2023-05-02 at 10 59 20 PM](https://user-images.githubusercontent.com/117786548/235842663-5e16e0f2-f0a3-4f04-9fb0-6f9305d543ad.png)
   * Description of Model 2 Accuracy, Precision, and Recall scores.
 # Summary
 Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. For example:
